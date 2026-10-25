@@ -1,3 +1,5 @@
+
+
 /*
   Solves the one-particle Schrodinger equation
   for a potential specified in function
